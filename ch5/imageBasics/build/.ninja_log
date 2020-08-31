@@ -1,0 +1,16 @@
+# ninja log v5
+0	471	1598233168	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	97c61ea48b12352a
+471	567	1598233168	imageBasics	7407c52b9123ca15
+0	438	1598233976	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	97c61ea48b12352a
+438	532	1598233976	imageBasics	7407c52b9123ca15
+1	483	1598235325	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	97c61ea48b12352a
+483	582	1598235325	imageBasics	7407c52b9123ca15
+1	458	1598235387	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	97c61ea48b12352a
+458	556	1598235387	imageBasics	7407c52b9123ca15
+1	35	1598237538	build.ninja	1ab81db2293cb5fa
+0	523	1598237539	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	5eb2f249ed6fc0e2
+523	624	1598237539	imageBasics	d2a2b512b01a0bab
+0	543	1598238041	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	5eb2f249ed6fc0e2
+543	646	1598238041	imageBasics	d2a2b512b01a0bab
+1	523	1598238073	CMakeFiles/imageBasics.dir/imageBasics.cpp.o	5eb2f249ed6fc0e2
+523	624	1598238073	imageBasics	d2a2b512b01a0bab
